@@ -444,18 +444,24 @@ Forking allows you to create a personal copy of the repository, where you can ex
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
-<!-- Added the Team section -->
 ## 👥 Team
 
-| ![Dhairya Gothi](https://avatars.githubusercontent.com/u/142989448?v=4&s=80) | ![Rishita](https://avatars.githubusercontent.com/u/167749636?v=4&s=80) | ![Shreya](https://media.licdn.com/dms/image/v2/D4D03AQFG5YVopdYt7g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727992516667?e=1741219200&v=beta&t=84LUi8zf1MvEgrKoD7BC0VXWwF2xSBtBoF6MvsUSY0k) | ![Riddhi](https://avatars.githubusercontent.com/u/180189764?v=4&s=80) | ![Prem](https://media.licdn.com/dms/image/v2/D4D03AQEfHKeIrJS3FA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727376973786?e=1741219200&v=beta&t=UzVdd24y97Z9I7xjITrmon8tH7gqk5qzLxbMGXUrU1s) |![Mrityunjay](https://avatars.githubusercontent.com/u/137044290?v=4&s=80) | 
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **Dhairya Gothi** <br> <sub>Project Admin</sub> | **Rishita** <br> <sub>Co-lead</sub> | **Shreya** <br> <sub>Researcher</sub> | **Riddhi** <br> <sub>Designer</sub> |**Prem** <br> <sub>Developer</sub> | **Mrityunjay** <br> <sub>Developer</sub> | 
-| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/dhairya-gothi-65945b288/) | [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](#) | [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](#) | [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](#) | [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](#) | [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](#) |
+<table>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/142989448?v=4" width="80"/><br><b>Dhairya Gothi</b><br><sub>Project Admin</sub><br><a href="https://www.linkedin.com/in/dhairya-gothi-65945b288/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/167749636?v=4" width="80"/><br><b>Rishita</b><br><sub>Co-lead</sub><br><a href="https://www.linkedin.com/in/rishita-mehta-1154352b4/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/180189764?v=4" width="80"/><br><b>Riddhi</b><br><sub>Designer</sub><br><a href="https://www.linkedin.com/in/riddhi-mhadgut-3b0a21289/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/100456448?v=4" width="80"/><br><b>Prem</b><br><sub>Developer</sub><br><a href="https://www.linkedin.com/in/prem-kolte/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/167011296?v=4" width="80"/><br><b>Shreya</b><br><sub>Researcher</sub><br><a href="https://www.linkedin.com/in/shreya-dubey-544874289/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/137044290?v=4" width="80"/><br><b>Mrityunjay</b><br><sub>Developer</sub><br><a href="https://www.linkedin.com/in/mrityunjay-singh-51a2b627a/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+  </tr>
+</table>
 
-
-If you have questions, suggestions, or feedback, please reach out via email at dhairyag31@gmail.com. You can also join our [discussion forum](https://github.com/dhairyagothi/StationGuide/discussions).
+If you have questions, suggestions, or feedback, please reach out via email at dhairyag31@gmail.com.
 
 We value open communication and are happy to help!
+
+
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
