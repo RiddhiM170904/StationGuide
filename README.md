@@ -118,7 +118,7 @@ Cloning creates a local copy of the project on your computer, allowing you to wo
 Use Git to clone this repository into your local development environment:
 
 ```bash
-git clone https://github.com/dhairyagothi/StationGuide.git
+git clone https://github.com/rishitamehta/StationGuide.git
 ```
 
 **After Cloning**
@@ -426,17 +426,7 @@ Forking allows you to create a personal copy of the repository, where you can ex
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Stargazers ❤️
 
-<div align='left'>
-
-[![Stargazers repo roster for @dhairyagothi/StationGuide](https://reporoster.com/stars/dhairyagothi/StationGuide)](https://github.com/dhairyagothi/StationGuide/stargazers)
-
-</div>
-
-## Forkers ❤️
-
-[![Forkers repo roster for @dhairyagothi/StationGuide](https://reporoster.com/forks/dhairyagothi/StationGuide)](https://github.com/dhairyagothi/StationGuide/network/members)
 
 
 
@@ -448,8 +438,8 @@ Forking allows you to create a personal copy of the repository, where you can ex
 
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/142989448?v=4" width="80"/><br><b>Dhairya Gothi</b><br><sub>Project Admin</sub><br><a href="https://www.linkedin.com/in/dhairya-gothi-65945b288/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/167749636?v=4" width="80"/><br><b>Rishita</b><br><sub>Co-lead</sub><br><a href="https://www.linkedin.com/in/rishita-mehta-1154352b4/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/167749636?v=4" width="80"/><br><b>Rishita</b><br><sub>Project-Admin</sub><br><a href="https://www.linkedin.com/in/rishita-mehta-1154352b4/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/142989448?v=4" width="80"/><br><b>Dhairya Gothi</b><br><sub>Developer</sub><br><a href="https://www.linkedin.com/in/dhairya-gothi-65945b288/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/180189764?v=4" width="80"/><br><b>Riddhi</b><br><sub>Designer</sub><br><a href="https://www.linkedin.com/in/riddhi-mhadgut-3b0a21289/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/100456448?v=4" width="80"/><br><b>Prem</b><br><sub>Developer</sub><br><a href="https://www.linkedin.com/in/prem-kolte/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/167011296?v=4" width="80"/><br><b>Shreya</b><br><sub>Researcher</sub><br><a href="https://www.linkedin.com/in/shreya-dubey-544874289/"><img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/></a></td>
